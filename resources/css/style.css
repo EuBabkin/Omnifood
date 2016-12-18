@@ -235,6 +235,17 @@ header{
 .features .long-copy{
 		margin-bottom: 30px;
 }
+/*Mobile navi*/
+.mobile-nav-icon{
+	display: none;
+	float: right;
+	margin-top: 40px;
+	cursor: pointer;
+}
+.mobile-nav-icon i{
+	font-size: 200%;
+	color: #fff;
+}
 /*---MEALS---*/
 .section-meals{
 		padding: 0;
