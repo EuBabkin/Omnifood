@@ -161,8 +161,8 @@ input[type="submit"]{
 /*---HEADER---*/
 header{
 		height: 100vh;
-		background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/hero.jpg);
-		background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/hero.jpg);
+		background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/hero-min.jpg);
+		background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/hero-min.jpg);
 		background-size: cover;
 		background-position: center;
 		background-attachment: fixed;
@@ -345,10 +345,10 @@ header{
 .section-testimonials{
 	background-image:
 		-webkit-linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),
-		url(img/back-customers.jpg);
+		url(img/back-customers-min.jpg);
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),
-		url(img/back-customers.jpg);
+		url(img/back-customers-min.jpg);
 	background-size: cover;
 	color: #fff;
 	background-attachment: fixed;
